@@ -1,0 +1,11 @@
+2025-02-04 13:39:46 INFO logger.py:126 Log level: INFO
+2025-02-04 13:39:46 INFO main.py:265 GNS3 GUI version 2.2.53
+2025-02-04 13:39:46 INFO main.py:266 Copyright (c) 2007-2025 GNS3 Technologies Inc.
+2025-02-04 13:39:46 INFO main.py:267 Application started with /Applications/GNS3.app/Contents/MacOS/gns3
+2025-02-04 13:39:51 INFO macos_ubridge_setuid.py:55 Executing '['/Applications/GNS3.app/Contents/MacOS/authorize_ubridge']' with privileges
+2025-02-04 13:39:54 INFO macos_ubridge_setuid.py:64 Successfully authorized uBridge
+2025-02-04 13:39:55 INFO controller.py:437 Listening for controller notifications on 'ws://localhost:3080/v2/notifications/ws'
+2025-02-04 13:39:55 INFO controller.py:437 Listening for controller notifications on 'ws://localhost:3080/v2/notifications/ws'
+2025-02-04 13:40:15 CRITICAL __init__.py:130 VMware vmrun tool could not be found, VMware or the VIX API (required for VMware player) is probably not installed. You can download it from https://customerconnect.vmware.com/downloads/details?downloadGroup=PLAYER-1400-VIX1170&productId=687. After installation you need to restart GNS3.
+2025-02-04 13:40:32 CRITICAL __init__.py:396 Could not find a VM named 'GNS3 VM', is it imported in VMware or VirtualBox?
+2025-02-04 13:44:43 CRITICAL __init__.py:396 Could not find a VM named 'GNS3 VM', is it imported in VMware or VirtualBox?
