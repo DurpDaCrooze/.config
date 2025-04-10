@@ -2,6 +2,8 @@
 
 !.gitignore
 
+!.p10k.zsh
+
 !nvim/
 !ghostty/
 
