@@ -6,4 +6,6 @@
 !ghostty/
 
 !nvim/**
+nvim/plugin**
+
 !ghostty/**
